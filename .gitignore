@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+.installed.cfg
+MANIFEST
+.env*
+!.env.example
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
+.cursorignore
+*.swp
+*.swo
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Backup
+*.bak
+*.old
+*.tmp
+*.tmp~
+
+# Local archive of datasets and experiments
+/archive/
+
+# Dataset cache
+/datasets/
+
+# Thumbnails
+.DS_Store
+thumbs.db
+
+# Default output directories. Move relevant outputs to runs/ to commit
+/exports/
+/logs/

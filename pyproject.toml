@@ -1,0 +1,16 @@
+[project]
+name = "refactor-arena-evals"
+version = "0.1.0"
+description = "Evals, exports and analyses from running Refactor Arena"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "refactor-arena>=0.6.1",
+]
+
+[project.optional-dependencies]
+analysis = [
+    "kaleido>=1.2.0",
+    "plotly>=6.7.0",
+    "pyyaml",
+]
