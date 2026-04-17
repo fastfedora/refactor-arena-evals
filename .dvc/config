@@ -1,0 +1,7 @@
+[core]
+    remote = r2
+    analytics = false
+    autostage = true
+['remote "r2"']
+    url = s3://refactor-arena-evals
+    endpointurl = https://69aa29bc3581ef59161f458d15605fbf.r2.cloudflarestorage.com
