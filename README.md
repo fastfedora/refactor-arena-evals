@@ -63,10 +63,10 @@ python -m scripts/{script-name}.py
 The eval logs and exports in the `runs` folder can be quite large. If you download these, you'll
 need this amount of space (48 GB if everything is downloaded):
 
-`runs/honest-baselines/logs`: 1.3 GB
-`runs/honest-baselines/exports`: 6.4 GB
-`runs/attacks/logs`: 7.4 GB
-`runs/attacks/exports`: 32 GB
+- `runs/honest-baselines/logs`: 1.3 GB
+- `runs/honest-baselines/exports`: 6.4 GB
+- `runs/attacks/logs`: 7.4 GB
+- `runs/attacks/exports`: 32 GB
 
 ## Things to Do
 
