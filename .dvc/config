@@ -4,4 +4,4 @@
     autostage = true
 ['remote "r2"']
     url = s3://refactor-arena-evals
-    endpointurl = https://69aa29bc3581ef59161f458d15605fbf.r2.cloudflarestorage.com
+    endpointurl = https://pub-dcf9394e0ea14d4ba444a024108a4c00.r2.dev
